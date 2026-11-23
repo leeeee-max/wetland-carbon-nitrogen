@@ -1,0 +1,15 @@
+#sampleName	clientId
+Unknown_CO331-002R0001	田进-1宏
+Unknown_CO331-002R0002	田进-2宏
+Unknown_CO331-002R0003	田进-3宏
+Unknown_CO331-002R0004	田出宏
+Unknown_CO331-002R0005	田湿-1宏
+Unknown_CO331-002R0006	田湿-2宏
+Unknown_CO331-002R0007	田湿-3宏
+Unknown_CO331-002R0008	香进-1宏
+Unknown_CO331-002R0009	香进-2宏
+Unknown_CO331-002R0010	香进-3宏
+Unknown_CO331-002R0011	香出宏
+Unknown_CO331-002R0012	香湿-1宏
+Unknown_CO331-002R0013	香湿-2宏
+Unknown_CO331-002R0014	香湿-3宏
